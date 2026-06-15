@@ -1,0 +1,6 @@
+{
+  "version": "4.1.0",
+  "minimum_required": "4.1.0",
+  "lock_message": "Update required. Download the latest version.",
+  "download_url": "https://github.com/YOURUSERNAME/YOURREPO/releases/latest"
+}
